@@ -17,10 +17,10 @@
 
 I'm a **Python Developer** with over 2 years of experience, specializing in **Backend** technologies. I am passionate about TG BOTS and contributing to **open-source projects**.
 
-- 🌱 Learning: **[Skill/Technology]**
+- 🌱 Learning: **Full-stack**
 - 💬 Ask me about: **Python, Open Source, web design**
 - 📫 Reach me: N/A
-- ⚡ Fun fact: I love **[fun fact about yourself]**
+- ⚡ Fun fact: I love **MONEY 😁💸**
 
 ---
 
