@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm <a href="https://github.com/dbbots">Deep</a> 👋</h1>
+<h1 align="center">Hey there, I'm <a href="https://github.com/dbbots">**A HUMAN**</a> 👋</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=500&color=F70000&center=true&width=435&lines=Python+Developer;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing SVG">
 </p>
