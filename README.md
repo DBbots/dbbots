@@ -43,5 +43,5 @@ I'm a **Python Developer** with over 2 years of experience, specializing in **Ba
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=deep&theme=radical" alt="Quote of the Day"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote of the Day"/>
 </p>
