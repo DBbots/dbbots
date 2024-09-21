@@ -9,7 +9,6 @@
   <img src="https://komarev.com/ghpvc/?username=dbbots&style=flat-square&color=blue" alt="Profile views"/>
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/dbbots?color=green&style=flat-square"/>
   <img alt="GitHub stars" src="https://img.shields.io/github/stars/dbbots?color=yellow&style=flat-square"/>
-  <img alt="Repos count" src="https://img.shields.io/github/repo-count/dbbots?color=red&style=flat-square"/>
 </p>
 
 ---
