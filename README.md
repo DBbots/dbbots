@@ -19,7 +19,6 @@ I'm a **Python Developer** with over 2 years of experience, specializing in **Ba
 
 - 🌱 Learning: **Full-stack**
 - 💬 Ask me about: **Python, Open Source, web design**
-- 📫 Reach me: N/A
 - ⚡ Fun fact: I love **MONEY 😁💸**
 
 ---
